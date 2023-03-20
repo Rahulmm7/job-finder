@@ -4,6 +4,9 @@
     "web": {
       "bundler": "metro"
     },
+    "splash": {
+      "image": "./assets/loader.png"
+    },
     "name": "job_finder",
     "slug": "job_finder"
   }
